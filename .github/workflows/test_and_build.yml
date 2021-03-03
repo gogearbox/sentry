@@ -9,8 +9,6 @@ on:
 
 env:
   GO111MODULE: on
-  # For versions earlier than Go 1.13
-  GOPROXY: https://proxy.golang.org
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
 jobs:
