@@ -5,5 +5,5 @@ go 1.16
 require (
 	github.com/getsentry/sentry-go v0.11.0
 	github.com/gogearbox/gearbox v1.2.2
-	github.com/valyala/fasthttp v1.23.0
+	github.com/valyala/fasthttp v1.28.0
 )
